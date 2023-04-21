@@ -17,6 +17,7 @@
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 Nanchang University OpenAtom Association！ 👨‍💻 </h2>
 
+<!--
 <p align="center">
   <samp>
     <a href="https://github.com/NCUSCC"><b>Github</b></a> ∙ 
@@ -24,6 +25,7 @@
       <a href="https://ncuscc.github.io/Contact"><b>Contact</b></a> 
   </samp>
 </p>
+-->
 
 ### 𝗔𝗯𝗼𝘂𝘁
 
