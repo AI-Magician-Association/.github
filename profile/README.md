@@ -22,7 +22,7 @@
 
 我们的初心是：
 
-### 
+### Requirements
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
@@ -31,5 +31,6 @@
 
 ### 𝗝𝗼𝗶𝗻 𝘂𝘀 | 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀
 
+- [**jrm0917@outlook.com**](mailto:jrm0917@outlook.com)
 - [**kechen666@email.ncu.edu.cn**](mailto:kechen666@email.ncu.edu.cn)
 
