@@ -1,2 +1,2 @@
-# NCU-OpenAtom-Association
-NCU-OpenAtom-Association 基本介绍
+# AI-Magician-Association
+AI-Magician-Association 基本介绍
