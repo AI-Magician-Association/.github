@@ -15,7 +15,7 @@
 </p>
 -->
 
-### 𝗔𝗯𝗼𝘂𝘁
+### About us
 
 这里是南昌大学学生组织的开源原子社团，目前正在组织筹备中，我们欢迎新同学的加入~
 
@@ -23,12 +23,12 @@
 
 ### Requirements
 
-### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+### Project
 
 - Loading...
 - Loading...
 
-### 𝗝𝗼𝗶𝗻 𝘂𝘀 | 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀
+### Join us | Contact with us
 
 - [**jrm0917@outlook.com**](mailto:jrm0917@outlook.com)
 - [**kechen666@email.ncu.edu.cn**](mailto:kechen666@email.ncu.edu.cn)
