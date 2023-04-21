@@ -1,7 +1,7 @@
 ## AI Magician Association
 
 <p align="center">
-    <img alt="Nanchang University" src="https://cdnjson.com/images/2023/04/14/NanchangUniversity.md.png" height="400">
+    <img alt="AI Magician Association" src="../image/AI Magician Association.png" height="400">
 </p>
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 AI Magician Association！ 👨‍💻 </h2>
