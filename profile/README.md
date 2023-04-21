@@ -15,7 +15,7 @@
     <img alt="Nanchang University" src="https://cdnjson.com/images/2023/04/14/NanchangUniversity.md.png" height="400">
 </p>
 
-<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://ncuscc.github.io/">Nanchang University Student Cluster Competition Team</a>！ 👨‍💻 </h2>
+<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 Nanchang University OpenAtom Association！ 👨‍💻 </h2>
 
 <p align="center">
   <samp>
