@@ -31,7 +31,6 @@
 
 我们是南昌大学的开源原子社团，我们的初心是：
 
-**Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities, Welcome to [Contact](https://ncuscc.github.io/Contact) with us!!!**
 
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
