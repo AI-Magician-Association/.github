@@ -6,14 +6,7 @@
 </p>
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 Open Source Makers Association！ 👨‍💻 </h2>
-<!--
-<p align="center">
-  <samp>
-    <a href="https://github.com/AI-Magician-Association"><b>Github</b></a> ∙ 
-    <a href="https://ncuscc.github.io/"><b>Homepage</b></a> .
-  </samp>
-</p>
--->
+
 ### About us
 
 OSMA（Open Source Makers Association）的宗旨是开放、包容、创新、传承，聚集人才，汇集资源，走出江西，走向全国。
