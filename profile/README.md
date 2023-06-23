@@ -18,7 +18,8 @@ AI Magician作为一个以人工智能为核心主题的非盈利性学生组织
 我们的部分分为AI部、EE部、学科交叉部、宣传策划部、人事财务部，我们希望不管是否有能力，都很能够从中有所得。
 ### Project
 
-- OSMA社团内部培训、交流会：。
+- OSMA校内交流会（OSMA on-campus workshop）：。
+
 - Loading...
 
 
