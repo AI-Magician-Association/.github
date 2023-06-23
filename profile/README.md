@@ -59,24 +59,15 @@ AI Magician作为一个以人工智能为核心主题的非盈利性学生组织
 
 借鉴于上交Neal团队的无可奉告之禅，我在这里利用AI辅助工具+自己的思考，写下了开源创客协会之禅。
 
-Open is better than Closed. 开源优于闭源，开放优于封闭
-
-Originality is better than Copy. 创新优于模仿，原创胜过复制
-
-Sharing is better than Selfish. 知识分享优于独占，合作胜于竞争
-
-Self-motivated is better than Passive. 积极学习优于被动，主动思考胜于盲从
-
-Inclusion is better than Bias. 包容优于排斥，友善胜过偏见
-
-Equal is better than Favoritism. Every voice matters. 平等参与胜于差异待遇，每个声音都很重要
-
-Pursuing is better than Complacency. Practice prevails over just Talking. 追求卓越胜于满足现状，实践优于空谈
-
-Communication is better than isolation. People-to-people beats People-to-machine. 交流互动胜于孤立，人与人优于人与机器
-
-Hobbies are better than Self-interest. Passion beats Perfunctory. 兴趣爱好胜过功利心态，热情投入优于敷衍
-
-Ideals and beliefs are better than practical interests. Logic prevails over Sentimentality. 理念信念优于现实利益，逻辑胜过人情
+- Open is better than Closed. 开源优于闭源，开放优于封闭
+- Originality is better than Copy. 创新优于模仿，原创胜过复制
+- Sharing is better than Selfish. 知识分享优于独占，合作胜于竞争
+- Self-motivated is better than Passive. 积极学习优于被动，主动思考胜于盲从
+- Inclusion is better than Bias. 包容优于排斥，友善胜过偏见
+- Equal is better than Favoritism. Every voice matters. 平等参与胜于差异待遇，每个声音都很重要
+- Pursuing is better than Complacency. Practice prevails over just Talking. 追求卓越胜于满足现状，实践优于空谈
+- Communication is better than isolation. People-to-people beats People-to-machine. 交流互动胜于孤立，人与人优于人与机器
+- Hobbies are better than Self-interest. Passion beats Perfunctory. 兴趣爱好胜过功利心态，热情投入优于敷衍
+- Ideals and beliefs are better than practical interests. Logic prevails over Sentimentality. 理念信念优于现实利益，逻辑胜过人情
 
 
