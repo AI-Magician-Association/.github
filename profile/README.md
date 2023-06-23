@@ -1,7 +1,7 @@
 ## AI Magician Association
 
 <p align="center">
-    <img alt="LOGO" src="../image/OSMA Logo.png" height="400">
+    <img alt="LOGO" src="https://github.com/Open-Source-Makers-Association/.github/blob/main/image/OSMA%20Logo.png" height="400">
 
 </p>
 
